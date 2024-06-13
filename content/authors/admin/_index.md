@@ -25,7 +25,7 @@ role: SNU Science Fellow
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Department of Physics and Astronomy, Seoul National University (SNU)
-    url: https://openai.com/
+    url: https://astron.snu.ac.kr/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
