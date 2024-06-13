@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 王澍
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shu Wang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shu
+last_name: Wang
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: SNU Science Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Department of Physics and Astronomy, Seoul National University (SNU)
     url: https://openai.com/
 
 # Social network links
