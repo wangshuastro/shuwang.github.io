@@ -26,14 +26,13 @@ role: SNU Science Fellow
 organizations:
   - name: Seoul National University (SNU)
     url: https://astron.snu.ac.kr/en/
-  - name: Contact me: wangshu100002@gmail.com
-    url: 'mailto:wangshu100002@gmail.com'
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  #- icon: at-symbol
-  #  url: 'mailto:wangshu100002@gmail.com'
-  #  label: E-mail Me
+  - icon: at-symbol
+    url: 'mailto:wangshu100002@gmail.com'
+    label: E-mail
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
   #- icon: brands/instagram
@@ -43,10 +42,14 @@ profiles:
   #- icon: brands/linkedin
   #  url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=NZUWGqwAAAAJ&hl=ko
+    label: Google Scholar
+  - icon: brands/X
+    url: https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-2052-6400&sort=date%20desc%2C%20bibcode%20desc
+    label: ADS Library
   - icon: academicons/orcid
-    url: https://orcid.org/
-
+    url: https://orcid.org/0000-0002-2052-6400
+    label: ORCID
 interests:
   - AGN, Quasars, and Supermassive Black Holes
   - Reverberation mapping and AGN variability
