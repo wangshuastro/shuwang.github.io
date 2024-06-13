@@ -161,4 +161,4 @@ awards:
 ---
 
 ## About Me
-Hello,  I am currently a SNU Science Fellow, working in the Basic Sciecne Institute, Seoul National University (SNU). I am mainly interested in quasar and active galactic nuclei (AGN). I have specialization in reverberation mapping and quasar \spectra analysos, especially for large sample and time-series observations.
+Hello,  I am currently a SNU Science Fellow, working in the Basic Sciecne Institute, Seoul National University (SNU). I am mainly interested in quasar and active galactic nuclei (AGN). I have specialization in using reverberation mapping to measure the black hole mass, as well as in analyzing  quasar spectra of large sample and time-series observations. 
