@@ -49,10 +49,10 @@ profiles:
 interests:
   - AGN, Quasars, and Supermassive Black Holes
   - Reverberation mapping and AGN variability
-  - Changing-look AGNs
+  #- Changing-look AGNs
 
 education:
-  - area: PhD
+  - area: PhD Astronomy
     institution: Peking University
     date_start: 2014-09-01
     date_end: 2020-10-31
@@ -65,13 +65,13 @@ education:
     institution: Peking University
     date_start: 2010-09-01
     date_end: 2014-06-30
-    summary: |
-      GPA: 3.4/4.0
+    #summary: |
+    #  GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: SNU Science Fellow
     company_name: Seoul National University
@@ -79,22 +79,12 @@ work:
     company_logo: ''
     date_start: 2022-03-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Post-doctoral Position
     company_name: Seoul National University
     company_url: ''
     company_logo: ''
     date_start: 2020-12-01
     date_end: 2022-02-28
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
