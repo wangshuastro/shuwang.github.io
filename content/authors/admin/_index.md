@@ -24,15 +24,16 @@ role: SNU Science Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Physics and Astronomy, Seoul National University (SNU)
+  - name: Seoul National University (SNU)
     url: https://astron.snu.ac.kr/en/
-
+  - name: Contact me: wangshu100002@gmail.com
+    url: 'mailto:wangshu100002@gmail.com'
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:wangshu100002@gmail.com'
-    label: E-mail Me
+  #- icon: at-symbol
+  #  url: 'mailto:wangshu100002@gmail.com'
+  #  label: E-mail Me
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
   #- icon: brands/instagram
