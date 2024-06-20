@@ -89,7 +89,12 @@ work:
     company_logo: ''
     date_start: 2020-12-01
     date_end: 2022-02-28
-
+  - position: Visiting Scholar
+    company_name: Universty of Illinois at Urbana-Champaign
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-10-01
+    date_end: 2018-10-31
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 #skills:
