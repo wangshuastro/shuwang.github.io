@@ -56,7 +56,7 @@ interests:
   #- Changing-look AGNs
 
 education:
-  - area: PhD Astronomy
+  - area: Ph.D.
     institution: Peking University
     date_start: 2014-09-01
     date_end: 2020-10-31
@@ -65,7 +65,7 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: BSc Astronomy
+  - area: BSc
     institution: Peking University
     date_start: 2010-09-01
     date_end: 2014-06-30
