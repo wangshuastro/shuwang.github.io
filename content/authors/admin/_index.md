@@ -92,45 +92,45 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: IDL
-        description: ''
-        percent: 80
-        icon: chart-bar
-      - name: R
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: code-bracket
+#      - name: IDL
+#        description: ''
+#        percent: 80
+#        icon: chart-bar
+#      - name: R
+#        description: ''
+#        percent: 40
+#        icon: circle-stack
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-simple-walk
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#      - name: Photography
+#        description: ''
+#        percent: 80
+#        icon: camera
 
-languages:
-  - name: English
-    percent: 80
-  - name: Chinese
-    percent: 100
-  #- name: Portuguese
-  #  percent: 25
+#languages:
+#  - name: English
+#    percent: 80
+#  - name: Chinese
+#    percent: 100
+#- name: Portuguese
+#  percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
