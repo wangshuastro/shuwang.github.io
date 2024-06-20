@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 王澍
+title: Shu Wang (王澍)
 
 # Name pronunciation (optional)
-name_pronunciation: Shu Wang
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Shu
