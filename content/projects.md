@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Participated Projects
-      text: SDSS-RM.
+      text: ""
       filters:
         folders:
           - project

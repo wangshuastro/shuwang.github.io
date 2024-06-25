@@ -1,7 +1,7 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: SDSS-RM
+date: 2014-now
+external_link: http://quasar.astro.illinois.edu/sdssrm/Site/Home.html
 tags:
   - Hugo
   - Wowchemy
