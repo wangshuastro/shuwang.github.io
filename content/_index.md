@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Shu Wang's Homepage"
 date: 2024-06-24
 type: landing
 
