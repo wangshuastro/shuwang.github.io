@@ -25,9 +25,9 @@ sections:
     content:
       title: Contributed code
       text: ""
-      #filters:
-      #  folders:
-      #    - code
+      filters:
+        folders:
+          - code
     design:
       view: article-grid
       fill_image: false
