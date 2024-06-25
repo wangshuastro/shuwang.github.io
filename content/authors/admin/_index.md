@@ -61,7 +61,7 @@ education:
     date_start: 2014-09-01
     date_end: 2020-10-31
     summary: |
-      Supervised by [Prof. Linhua Jiang](http://kavli.pku.edu.cn/~jiang/) .
+      Supervised by [Prof. Linhua Jiang](http://kavli.pku.edu.cn/~jiang) .
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
