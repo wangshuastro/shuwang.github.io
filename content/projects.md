@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Participated Projects
+      title: participated projects
       text: ""
       filters:
         folders:
@@ -19,5 +19,17 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 1
+  
+  - block: collection
+    content:
+      title: Contributed code
+      text: ""
+      #filters:
+      #  folders:
+      #    - code
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 1
 ---
