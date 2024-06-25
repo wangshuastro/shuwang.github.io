@@ -38,7 +38,7 @@ header:
       text: ""
 
 # Site footer
-footer:
+#footer:
   #copyright:
   #  notice: '© {year} Me. This work is licensed under {license}'
   #  license:
